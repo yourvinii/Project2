@@ -4,4 +4,4 @@ This project was created from local system.
 
 # Developer name
 
-This project is crated by Vinayak Majhi
+This project is crated by Vinayak Majhi.
